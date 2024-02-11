@@ -1,0 +1,19 @@
+.container ul .row li {
+    list-style: none;
+    list-style-type: none;
+
+}
+body{
+    background-image: url(../images/360_F_248138476_vRdrN0FuKMMOPViRojcK41IqCiFn4J1q.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.btn {
+    background-color: white !important; 
+    color: orangered !important;
+    /* border: solid 2px  orangered !important; */
+    font-weight: bold !important;
+}
+.divTotalPrice {
+    font-size: 25px;
+}
